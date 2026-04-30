@@ -1,4 +1,4 @@
-# OverClock Media Content Management Syste
+# OverClock Media Content Management System
 
 Final project for TAFE diploma Mobile Apps.
 
